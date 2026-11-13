@@ -46,10 +46,9 @@ The correction pass used manually corrected readings for failed records. the mod
 ## Responsible use
 
 Nichijou can imitate voices. Use it in accordance with applicable law and obtain permission before imitating another person's voice. Unauthorized impersonation is prohibited.
+treat this project as an experiment, provided checkpoints may or may not be suitable for any serious work on their own.
 
 # Footnote
-
-treat this project as an experiment, provided checkpoints may or may not be suitable for any serious work on their own.
 
 I was also working on a few things that are much larger in scope; but unfortunately due to my circumstances I may not be able to manage them anymore alone.
 so if there's anyone (preferably) in Japan willing to help (or maybe pick them up? depends) feel free to reach me.
