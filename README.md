@@ -2,7 +2,7 @@ English | [日本語](README.ja.md)
 
 # Nichijou 500M
 
-Nichijou is a powerful hourglass diffusion transformer, capable of generating Japanese speech and end-to-end conversations.
+Nichijou is an hourglass diffusion transformer, capable of generating Japanese speech and end-to-end conversations.
 
 ## Inference
 
