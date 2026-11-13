@@ -1,0 +1,17 @@
+accelerate
+bitsandbytes
+cutlet
+datasets
+einops
+fsspec
+huggingface_hub
+librosa
+numpy
+psutil
+pyopenjtalk
+safetensors
+soundfile
+torch
+torchao
+torchaudio
+transformers

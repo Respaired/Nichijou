@@ -1,0 +1,12 @@
+{
+  "datasets": [
+    {
+      "metadata_ds": "/path/to/metadata.parquet",
+      "latents_ds": "/path/to/latents",
+      "use_percentage": 1.0,
+      "must_merge": false,
+      "latents_columns": "latents_fish",
+      "text_column": "phonemized"
+    }
+  ]
+}
