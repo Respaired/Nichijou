@@ -1,4 +1,4 @@
-[English](README.md) | 日本語
+[English](README.md) | 日本語 | [デモ](https://huggingface.co/spaces/Respair/Nichijou_demo)
 
 # Nichijou 500M
 
